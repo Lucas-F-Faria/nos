@@ -1,0 +1,54 @@
+body{
+
+    margin:0;
+    background:#ffdce8;
+
+    font-family:Arial;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    height:100vh;
+
+}
+
+.container{
+
+    background:white;
+
+    width:350px;
+
+    padding:30px;
+
+    border-radius:20px;
+
+    text-align:center;
+
+    box-shadow:0 0 20px rgba(0,0,0,.2);
+
+}
+
+img{
+
+    width:250px;
+
+    border-radius:20px;
+
+    margin:20px 0;
+
+}
+
+h1{
+
+    color:#ff4081;
+
+}
+
+p{
+
+    font-size:18px;
+
+}
